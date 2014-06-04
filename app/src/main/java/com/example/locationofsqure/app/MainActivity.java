@@ -18,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
         // доци !!! і в ХML
     }
 
-//new comment like this 2
+//new comment like this
     //sfdfsdfsdf
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
